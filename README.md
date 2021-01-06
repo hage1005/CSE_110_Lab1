@@ -3,6 +3,10 @@
 ### greeting to all of ya
 **I'm a cs student at UCSD**
 
+<img src="https://cdn.swimswam.com/wp-content/uploads/2020/08/UCSD-2.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 *2023*
 
 ~~I'm good at coding~~
