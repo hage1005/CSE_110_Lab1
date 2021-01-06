@@ -40,6 +40,7 @@ i'm at
      - La Jolla
 
 - [x] work hard
+- [ ] make friends
 
 @duckduckwhale hi
 
